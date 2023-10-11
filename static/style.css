@@ -1,0 +1,107 @@
+
+html{
+    background-color: black;
+    margin:0px;
+    height: 100%;
+}
+
+body{
+    margin:0%;
+    margin-left:50px;
+    margin-right:50px;
+    height:100%;
+    
+}
+.zero{ 
+    color:black;
+    display:flex;
+    height: 100%;
+
+}
+
+.one{
+    flex-basis:20%;
+    background-color: #f381ebec;
+    border:1px solid rgb(238, 189, 98);
+    
+}
+.two{
+    flex-basis: 80%;
+    background-color: #f5fd57;
+    border:1px solid black;
+   
+}
+
+#oneone{
+    margin:0%;
+    padding:0%;
+    margin-left: 45px;
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}
+
+
+#oneh1{
+    display: inline;
+    padding:0%;
+    color:rgba(0, 0, 0, 0.658);
+    text-transform: capitalize;
+    font-family: 'Courier New', monospace;  
+    font-size: 19px;
+    font-weight: 110;
+    text-align: center;
+    margin-left: 10px;
+}
+#oneh2{
+    display: inline;
+    padding:0%;
+    color:rgba(0, 0, 0, 0.658);
+    text-transform: capitalize;
+    font-family: 'Courier New', monospace;  
+    font-size: 30px;
+    font-weight: 110;
+    text-align: center;
+    margin-left:25%;
+
+}
+.two1{
+    margin:0%;
+    padding:0%;
+    height:50%;
+    display: flex;
+}
+.two1-1{
+    margin: 0%;
+    padding: 0%;
+    width: 80%;
+}
+.two1-2{
+    margin: 0%;
+    padding: 0%;
+    width: 20%;
+}
+.two2{
+    margin: 0%;
+    margin-left: 30px;
+    padding:0%;
+    height: 50%;
+}
+.two2 h3{
+    text-transform: capitalize;
+    font-size: 15px;
+}
+.two1-1 p {
+    text-align: center;
+    font-style: italic;
+    font-size: 19px;
+    text-transform: capitalize;
+}
+.two1-1 h3{
+    margin-left: 30px;
+    font-size: 21px;
+
+}
+#success{
+    color:green;
+}
