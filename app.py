@@ -44,6 +44,6 @@ def index():
     #     print(email)
 
     #     return render_template("index.html", success = success)
-    return render_template("index.html")
-if __name__ == "__main__":
-    app.run()
+    return  "ankit saini"
+    # if __name__ == "__main__":
+#     app.run()
