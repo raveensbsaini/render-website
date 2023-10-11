@@ -1,2 +1,2 @@
 Flask
-resend
+Gunicorn
