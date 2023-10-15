@@ -1,3 +1,4 @@
 Flask
 Gunicorn
 resend
+psycopg2
