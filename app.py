@@ -19,6 +19,7 @@ def index():
          print(type(number),number)
          number = int(number)
          print(type(number),number)
+         assert False
 
 
          email = request.form.get("pemail")
