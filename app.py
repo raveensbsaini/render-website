@@ -28,10 +28,10 @@ def index():
 
 
          conn = psycopg2.connect(
-         database="ravindrakumarsaini",
-         user="raveensbsaini",
-         password="U7N8FmrFrXNvL5P7brCkYJZA332hhTQp",
-         host="dpg-ckiqu8b6fquc739in3fg-a.singapore-postgres.render.com",
+         database="render_webiste",
+         user="ravindra",
+         password="OyTMC8aA2kvqHAKD9IlFW6ix1OSCXeHJ",
+         host="postgresql://ravindra:OyTMC8aA2kvqHAKD9IlFW6ix1OSCXeHJ@dpg-cqak8j2ju9rs73bm0bf0-a.singapore-postgres.render.com/render_webiste",
          port=5432
          )
         
